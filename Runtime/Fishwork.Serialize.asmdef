@@ -1,6 +1,9 @@
 {
 	"name": "Fishwork.Serialize",
 	"rootNamespace": "Fishwork.Serialize",
+	"references": [
+		"Fishwork.Core"
+	],
 	"includePlatforms": [],
 	"excludePlatforms": [],
 	"allowUnsafeCode": true,
