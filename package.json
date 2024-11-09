@@ -4,7 +4,7 @@
   "displayName": "Fishwork Serialize",
   "description": "Fishwork Serialize Library",
   "dependencies": {
-    "cool.nofish.fishwork.core": "https://github.com/CodeNofish/cool.nofish.fishwork.core.git"
+    "cool.nofish.fishwork.core": "https://github.com/CodeNofish/cool.nofish.fishwork.core.git#main"
   },
   "unity": "6000.0",
   "documentationUrl": "https://github.com/CodeNofish/cool.nofish.fishwork.serialize/blob/main/Documentation~",
