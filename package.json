@@ -10,6 +10,8 @@
   "documentationUrl": "https://github.com/CodeNofish/cool.nofish.fishwork.serialize/blob/main/Documentation~",
   "changelogUrl": "https://github.com/CodeNofish/cool.nofish.fishwork.serialize/blob/main/CHANGELOG.md",
   "licensesUrl": "https://github.com/CodeNofish/cool.nofish.fishwork.serialize/blob/main/LICENSE",
+  "license": "MIT",
+  "category": "Scripting",
   "keywords": [
     "fishwork",
     "serialization"
